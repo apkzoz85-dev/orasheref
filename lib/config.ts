@@ -11,7 +11,7 @@ export const SITE = {
 
   /** Web3Forms — ضع الـ Access Key هنا أو في NEXT_PUBLIC_WEB3FORMS_KEY.
    *  بدون مفتاح: الفورم يحوّل العميل على واتساب ببياناته حتى لا يضيع أي ليد. */
-  web3formsKey: process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "5f3b022f-38b7-4347-82f2-02b4892d66f0",
+  web3formsKey: process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "59d41a43-a2d4-4ccd-9043-88477d6d0875",
 
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://example.com",
 
