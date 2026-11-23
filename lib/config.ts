@@ -5,9 +5,9 @@
  */
 export const SITE = {
   /** رقم الاتصال والواتساب (نفس رقم orazed.org — غيّره لو مختلف) */
-  phoneDisplay: "01020068999",
-  phoneIntl: "+201020068999",
-  whatsapp: "201020068999",
+  phoneDisplay: "01060997771",
+  phoneIntl: "+201060997771",
+  whatsapp: "201060997771",
 
   /** Web3Forms — ضع الـ Access Key هنا أو في NEXT_PUBLIC_WEB3FORMS_KEY.
    *  بدون مفتاح: الفورم يحوّل العميل على واتساب ببياناته حتى لا يضيع أي ليد. */
